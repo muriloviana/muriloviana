@@ -6,11 +6,8 @@
 - :beers: Let's drink a beer and talk about politics and society.
 - 😄 Pronouns: He/him
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloviana&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=muriloviana&theme=dark"/></td>
-    </tr>   
-</table>
-</center>
+<div align="center">
+  <a href="https://github.com/muriloviana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muriloviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloviana&layout=compact&langs_count=7&theme=dark"/>
+</div>
