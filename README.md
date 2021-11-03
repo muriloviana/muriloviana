@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I'm always learning something
-- 👯 I like to write posts about programming in my native language, pt-br, to democratize this knowledge
-- 🐍 I'm Python community enthusiast
-- :beers: Let's drink a beer and talk about politics and society.
+- 🌱 I'm currently learning to play guitar and piano
+- 👯 I write posts about programming in my native language to democratize this knowledge
+- 🐍 I'm a Python community enthusiast
+- 🍻 Let's have a beer and talk about politics and society
 - 😄 Pronouns: He/him
 
 <div align="center">
