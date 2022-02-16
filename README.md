@@ -3,7 +3,7 @@
 - 🐍 I'm a Python community enthusiast
 - 📺 I watch anime to relax
 - 💦 I do calisthenics to stay healthy
-- 🍻 And I love hanging out with friends for a few beers.
+- 🍻 And I love hanging out with friends for a few beers
 - 😄 Pronouns: He/him
 
 <div align="center">
