@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I'm currently learning to play guitar and piano
-- 👯 I write posts about programming in my native language to democratize this knowledge
 - 🐍 I'm a Python community enthusiast
-- 🍻 Let's have a beer and talk about politics and society
+- 📺 I watch anime to relax
+- 💦 I do calisthenics to stay healthy
+- 🍻 And I love hanging out with friends for a few beers.
 - 😄 Pronouns: He/him
 
 <div align="center">
