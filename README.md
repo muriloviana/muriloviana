@@ -15,3 +15,7 @@ Whenever possible, I share experiences and learnings. Here are some shared conte
 * 🇧🇷 [O dia que descobri quando devo utilizar, ou não, DynamoDB](https://muriloviana.me/posts/o-dia-que-descobri-quando-devo-utilizar-ou-nao-dynamodb/)
 
 You can read more at http://muriloviana.me
+
+#### Talks
+
+* 🇧🇷 [[PyBR2021] Eu não sinto que sou uma boa pessoa programadora](https://www.youtube.com/watch?v=uTW5TtwD22U&t=3s)
