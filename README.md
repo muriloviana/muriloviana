@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐍 I'm a Python community enthusiast
-- 📺 I watch movies and anime to relax
+- ⚽ I like to watch and play soccer
 - 💪 I workout to stay health
 - 🍻 And I love hanging out with friends for a few beers
 - 😄 Pronouns: He/him
