@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🐍 I'm a Python community enthusiast
-- 📺 I watch anime to relax
-- 💦 I do calisthenics to stay healthy
+- 📺 I watch movies and anime to relax
+- 💪 I workout to stay health
 - 🍻 And I love hanging out with friends for a few beers
 - 😄 Pronouns: He/him
 
