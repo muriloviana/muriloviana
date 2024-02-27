@@ -10,10 +10,10 @@ Whenever possible, I share experiences and learnings. Here are some shared conte
 
 #### Articles
 
+* 🇧🇷 [A importância do trabalho voluntário na comunidade Python Brasil](https://www.linkedin.com/feed/update/urn:li:activity:7125125470559383554/)
 * 🇧🇷 [Como criar uma imagem docker através de um container](https://muriloviana.me/posts/como-criar-uma-imagem-docker-atraves-de-um-container/)
 * 🇧🇷 [Shallow copy vs Deep copy](https://muriloviana.me/posts/shallow-copy-vs-deep-copy/)
 * 🇧🇷 [O dia que descobri quando devo utilizar, ou não, DynamoDB](https://muriloviana.me/posts/o-dia-que-descobri-quando-devo-utilizar-ou-nao-dynamodb/)
-* 🇧🇷 [A importância do trabalho voluntário na comunidade Python Brasil](https://www.linkedin.com/feed/update/urn:li:activity:7125125470559383554/)
 
 You can read more at http://muriloviana.me
 
