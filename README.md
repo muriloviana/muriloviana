@@ -10,6 +10,7 @@ Whenever possible, I share experiences and learnings. Here are some shared conte
 
 #### Articles
 
+* :us: [5 tips I wish I had received when I was a Junior Developer](https://dev.to/muuviana/5-tips-i-wish-i-had-received-when-i-was-a-junior-developer-4eab)
 * 🇧🇷 [A importância do trabalho voluntário na comunidade Python Brasil](https://www.linkedin.com/feed/update/urn:li:activity:7125125470559383554/)
 * 🇧🇷 [Como criar uma imagem docker através de um container](https://muriloviana.me/posts/como-criar-uma-imagem-docker-atraves-de-um-container/)
 * 🇧🇷 [Shallow copy vs Deep copy](https://muriloviana.me/posts/shallow-copy-vs-deep-copy/)
