@@ -8,13 +8,13 @@
 
 Whenever possible, I share experiences and learnings. Here are some shared content:
 
-#### Articles
+#### Last Posts
 
-* :us: [5 tips I wish I had received when I was a Junior Developer](https://dev.to/muuviana/5-tips-i-wish-i-had-received-when-i-was-a-junior-developer-4eab)
+* 🇧🇷 [5 Práticas que uso para me aperfeiçoar enquanto pessoa desenvolvedora Senior](https://muriloviana.me/posts/5-praticas-que-uso-para-me-aperfeicoar-enquanto-pessoa-desenvolvedora-senior/)
+* :us: [5 Tips I Wish I Had Received When I Was a Mid-Level Developer](https://dev.to/muuviana/5-tips-i-wish-i-had-received-when-i-was-a-mid-level-developer-2gg3)
+* :us: [5 Tips I Wish I Had Received When I Was a Junior Developer](https://dev.to/muuviana/5-tips-i-wish-i-had-received-when-i-was-a-junior-developer-4eab)
 * 🇧🇷 [A importância do trabalho voluntário na comunidade Python Brasil](https://www.linkedin.com/feed/update/urn:li:activity:7125125470559383554/)
 * 🇧🇷 [Como criar uma imagem docker através de um container](https://muriloviana.me/posts/como-criar-uma-imagem-docker-atraves-de-um-container/)
-* 🇧🇷 [Shallow copy vs Deep copy](https://muriloviana.me/posts/shallow-copy-vs-deep-copy/)
-* 🇧🇷 [O dia que descobri quando devo utilizar, ou não, DynamoDB](https://muriloviana.me/posts/o-dia-que-descobri-quando-devo-utilizar-ou-nao-dynamodb/)
 
 You can read more at http://muriloviana.me
 
