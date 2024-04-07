@@ -10,7 +10,7 @@ Whenever possible, I share experiences and learnings. Here are some shared conte
 
 #### Last Posts
 
-* 🇧🇷 [5 Práticas que uso para me aperfeiçoar enquanto pessoa desenvolvedora Senior](https://muriloviana.me/posts/5-praticas-que-uso-para-me-aperfeicoar-enquanto-pessoa-desenvolvedora-senior/)
+* :us: [5 Practices I Use to Improve Myself as a Senior Developer](https://dev.to/muuviana/5-practices-i-use-to-improve-myself-as-a-senior-developer-g5p)
 * :us: [5 Tips I Wish I Had Received When I Was a Mid-Level Developer](https://dev.to/muuviana/5-tips-i-wish-i-had-received-when-i-was-a-mid-level-developer-2gg3)
 * :us: [5 Tips I Wish I Had Received When I Was a Junior Developer](https://dev.to/muuviana/5-tips-i-wish-i-had-received-when-i-was-a-junior-developer-4eab)
 * 🇧🇷 [A importância do trabalho voluntário na comunidade Python Brasil](https://www.linkedin.com/feed/update/urn:li:activity:7125125470559383554/)
