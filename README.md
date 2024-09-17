@@ -3,7 +3,7 @@
 - 🐍 I'm a Python community enthusiast
 - ⚽ I like to watch and play soccer
 - 💪 I workout to stay health
-- 🍻 And I love hanging out with friends for a few beers
+- 🎲 I love board games
 - 😄 Pronouns: He/him
 
 Whenever possible, I share experiences and learnings. Here are some shared content:
